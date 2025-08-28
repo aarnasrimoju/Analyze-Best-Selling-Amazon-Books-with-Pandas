@@ -1,0 +1,14 @@
+# Core libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook environment
+jupyter
+
+# Optional (if you want cleaner plots and progress bars)
+tqdm
+plotly
